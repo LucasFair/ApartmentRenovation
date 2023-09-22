@@ -1,0 +1,7 @@
+C:\Users\Fair\Documents\Hovedforløb\H1\H1_Test\ApartmentRenovation\bin\Debug\ApartmentRenovation.exe.config
+C:\Users\Fair\Documents\Hovedforløb\H1\H1_Test\ApartmentRenovation\bin\Debug\ApartmentRenovation.exe
+C:\Users\Fair\Documents\Hovedforløb\H1\H1_Test\ApartmentRenovation\bin\Debug\ApartmentRenovation.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\H1_Test\ApartmentRenovation\obj\Debug\ApartmentRenovation.csproj.AssemblyReference.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\H1_Test\ApartmentRenovation\obj\Debug\ApartmentRenovation.csproj.CoreCompileInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\H1_Test\ApartmentRenovation\obj\Debug\ApartmentRenovation.exe
+C:\Users\Fair\Documents\Hovedforløb\H1\H1_Test\ApartmentRenovation\obj\Debug\ApartmentRenovation.pdb
